@@ -1,0 +1,10 @@
+while True:
+  word = input("que duda tienes?")
+  if word == "que es   xd" :
+    print("xd es un modo de decir me equivoque o de algo parecido")
+  if word ==  "que es chido":
+    print("es un modo de decir esta increible)
+  if word == "que es gg":
+    print("es un modo de decir "¡SUPER!" )
+  if word == "exit" or word == "salir:
+    break
